@@ -1,8 +1,4 @@
-# orangc's walls, catppuccin-mocha edition
-Hi! This is my repository of wallpapers which I've collected over the years. This is the catppuccin-mocha version; the normal repo is available [here](https://github.com/orangci/walls).
-
-> Disclaimer: These wallpapers are sourced from many, many, many sources on the internet. I did not make any of these, although I have *edited* several of them a little bit and use lutgen to convert them from their normal versions in orangci/walls to the catppuccin-mocha colour scheme. Zero credit belongs to me in that regard, I'm simply the collector. If you are the artist of one of these wallpapers, please [**contact me**](https://orangc.net), I will happily take the wallpaper down or add credit in this README.
-# Preview
+**Preview:**
 | Column 1 | Column 2 | Column 3 | Column 4 |
 |---------|---------|---------|---------|
 | ![0411.jpg](https://raw.githubusercontent.com/sansroot/wallpapers/master/0411.jpg) | ![068.jpg](https://raw.githubusercontent.com/sansroot/wallpapers/master/068.jpg) | ![103304065_p0.jpg](https://raw.githubusercontent.com/sansroot/wallpapers/master/103304065_p0.jpg) | ![1358522.jpg](https://raw.githubusercontent.com/sansroot/wallpapers/master/1358522.jpg) |
