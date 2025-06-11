@@ -1,6 +1,6 @@
 import os
 
-wallpaper_dir = "wallpapers"
+wallpaper_dir = "wallpaper"
 output_file = "README.md"
 repo_url = "https://raw.githubusercontent.com/sansroot/wallpapers/master"
 columns = 4
