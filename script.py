@@ -1,19 +1,14 @@
 import os
 
-
 wallpaper_dir = "wallpapers"
 output_file = "README.md"
 repo_url = "https://raw.githubusercontent.com/sansroot/wallpapers/master"
 columns = 4
 
-
-
-
 files = sorted([
     f for f in os.listdir(wallpaper_dir)
     if f.lower().endswith(('.jpg', '.jpeg', '.png', '.gif', '.webp'))
 ])
-
 
 rows = ""
 for i in range(0, len(files), columns):
@@ -24,7 +19,6 @@ for i in range(0, len(files), columns):
         f"![{name}]({repo_url}/{name})" if name else "" for name in row
     )
     rows += f"| {row_md} |\n"
-
 
 with open(output_file, "w") as f:
     f.write(rows)
