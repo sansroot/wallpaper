@@ -1,5 +1,4 @@
 **Preview:**
-| Column 1 | Column 2 | Column 3 | Column 4 |
 |---------|---------|---------|---------|
 | ![0411.jpg](https://raw.githubusercontent.com/sansroot/wallpapers/master/0411.jpg) | ![068.jpg](https://raw.githubusercontent.com/sansroot/wallpapers/master/068.jpg) | ![103304065_p0.jpg](https://raw.githubusercontent.com/sansroot/wallpapers/master/103304065_p0.jpg) | ![1358522.jpg](https://raw.githubusercontent.com/sansroot/wallpapers/master/1358522.jpg) |
 | ![1629580798061.jpg](https://raw.githubusercontent.com/sansroot/wallpapers/master/1629580798061.jpg) | ![1629581059879.jpg](https://raw.githubusercontent.com/sansroot/wallpapers/master/1629581059879.jpg) | ![1634847494489.jpg](https://raw.githubusercontent.com/sansroot/wallpapers/master/1634847494489.jpg) | ![1635626905112.jpg](https://raw.githubusercontent.com/sansroot/wallpapers/master/1635626905112.jpg) |
